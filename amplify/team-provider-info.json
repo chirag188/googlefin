@@ -10,6 +10,11 @@
       "StackName": "amplify-googlefinamp-dev-11712",
       "StackId": "arn:aws:cloudformation:us-east-1:533267409605:stack/amplify-googlefinamp-dev-11712/74009630-4368-11ef-b53f-0ee76a96952b",
       "AmplifyAppId": "d10l8e1sj40xup"
+    },
+    "categories": {
+      "auth": {
+        "googlefinamp608ede95": {}
+      }
     }
   }
 }
