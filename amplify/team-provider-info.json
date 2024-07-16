@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-googlefinamp-dev-11712-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533267409605:role/amplify-googlefinamp-dev-11712-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533267409605:role/amplify-googlefinamp-dev-11712-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-googlefinamp-dev-11712-deployment",
+      "UnauthRoleName": "amplify-googlefinamp-dev-11712-unauthRole",
+      "StackName": "amplify-googlefinamp-dev-11712",
+      "StackId": "arn:aws:cloudformation:us-east-1:533267409605:stack/amplify-googlefinamp-dev-11712/74009630-4368-11ef-b53f-0ee76a96952b",
+      "AmplifyAppId": "d10l8e1sj40xup"
+    }
+  }
+}
