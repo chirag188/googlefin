@@ -12,7 +12,7 @@ const awsconfig = {
       scope: ["email", "profile", "openid"],
       redirectSignIn: window.location.href,
       redirectSignOut: window.location.href,
-      responseType: "code", // for Authorization Code Grant
+      responseType: "token", // for Authorization Code Grant
     },
   },
 };
